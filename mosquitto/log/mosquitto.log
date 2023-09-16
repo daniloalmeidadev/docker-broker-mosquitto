@@ -1,0 +1,79 @@
+1694834961: mosquitto version 2.0.11 starting
+1694834961: Config loaded from /mosquitto/config/mosquitto.conf.
+1694834961: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1694834961: Create a configuration file which defines a listener to allow remote access.
+1694834961: For more details see https://mosquitto.org/documentation/authentication-methods/
+1694834961: Opening ipv4 listen socket on port 1883.
+1694834961: Opening ipv6 listen socket on port 1883.
+1694834961: Error: Address not available
+1694834961: mosquitto version 2.0.11 running
+1694835629: mosquitto version 2.0.11 terminating
+1694835629: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1694835630: mosquitto version 2.0.11 starting
+1694835630: Config loaded from /mosquitto/config/mosquitto.conf.
+1694835630: Error: Unable to open pwfile "/mosquitto/config/mosquito.passwd".
+1694835630: Error opening password file "/mosquitto/config/mosquito.passwd".
+1694835656: mosquitto version 2.0.11 starting
+1694835656: Config loaded from /mosquitto/config/mosquitto.conf.
+1694835656: Error: Unable to open pwfile "/mosquitto/config/mosquito.passwd".
+1694835656: Error opening password file "/mosquitto/config/mosquito.passwd".
+1694835745: mosquitto version 2.0.11 starting
+1694835745: Config loaded from /mosquitto/config/mosquitto.conf.
+1694835745: Error: Unable to open pwfile "/mosquitto/config/mosquito.passwd".
+1694835745: Error opening password file "/mosquitto/config/mosquito.passwd".
+1694835779: mosquitto version 2.0.11 starting
+1694835779: Config loaded from /mosquitto/config/mosquitto.conf.
+1694835779: Error: Unable to open pwfile "/mosquitto/config/mosquito.passwd".
+1694835779: Error opening password file "/mosquitto/config/mosquito.passwd".
+1694835780: mosquitto version 2.0.11 starting
+1694835780: Config loaded from /mosquitto/config/mosquitto.conf.
+1694835780: Error: Unable to open pwfile "/mosquitto/config/mosquito.passwd".
+1694835780: Error opening password file "/mosquitto/config/mosquito.passwd".
+1694835781: mosquitto version 2.0.11 starting
+1694835781: Config loaded from /mosquitto/config/mosquitto.conf.
+1694835781: Error: Unable to open pwfile "/mosquitto/config/mosquito.passwd".
+1694835781: Error opening password file "/mosquitto/config/mosquito.passwd".
+1694835782: mosquitto version 2.0.11 starting
+1694835782: Config loaded from /mosquitto/config/mosquitto.conf.
+1694835782: Error: Unable to open pwfile "/mosquitto/config/mosquito.passwd".
+1694835782: Error opening password file "/mosquitto/config/mosquito.passwd".
+1694835783: mosquitto version 2.0.11 starting
+1694835783: Config loaded from /mosquitto/config/mosquitto.conf.
+1694835783: Error: Unable to open pwfile "/mosquitto/config/mosquito.passwd".
+1694835783: Error opening password file "/mosquitto/config/mosquito.passwd".
+1694835785: mosquitto version 2.0.11 starting
+1694835785: Config loaded from /mosquitto/config/mosquitto.conf.
+1694835785: Error: Unable to open pwfile "/mosquitto/config/mosquito.passwd".
+1694835785: Error opening password file "/mosquitto/config/mosquito.passwd".
+1694835789: mosquitto version 2.0.11 starting
+1694835789: Config loaded from /mosquitto/config/mosquitto.conf.
+1694835789: Error: Unable to open pwfile "/mosquitto/config/mosquito.passwd".
+1694835789: Error opening password file "/mosquitto/config/mosquito.passwd".
+1694835795: mosquitto version 2.0.11 starting
+1694835795: Config loaded from /mosquitto/config/mosquitto.conf.
+1694835795: Error: Unable to open pwfile "/mosquitto/config/mosquito.passwd".
+1694835795: Error opening password file "/mosquitto/config/mosquito.passwd".
+1694835809: mosquitto version 2.0.11 starting
+1694835809: Config loaded from /mosquitto/config/mosquitto.conf.
+1694835809: Error: Unable to open pwfile "/mosquitto/config/mosquito.passwd".
+1694835809: Error opening password file "/mosquitto/config/mosquito.passwd".
+1694835835: mosquitto version 2.0.11 starting
+1694835835: Config loaded from /mosquitto/config/mosquitto.conf.
+1694835835: Error: Unable to open pwfile "/mosquitto/config/mosquito.passwd".
+1694835835: Error opening password file "/mosquitto/config/mosquito.passwd".
+1694835886: mosquitto version 2.0.11 starting
+1694835886: Config loaded from /mosquitto/config/mosquitto.conf.
+1694835886: Opening ipv4 listen socket on port 1883.
+1694835886: Opening ipv6 listen socket on port 1883.
+1694835886: Opening websockets listen socket on port 9001.
+1694835886: mosquitto version 2.0.11 running
+1694835887: mosquitto version 2.0.11 terminating
+1694835887: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1694835888: mosquitto version 2.0.11 starting
+1694835888: Config loaded from /mosquitto/config/mosquitto.conf.
+1694835888: Opening ipv4 listen socket on port 1883.
+1694835888: Opening ipv6 listen socket on port 1883.
+1694835888: Opening websockets listen socket on port 9001.
+1694835888: mosquitto version 2.0.11 running
+1694836208: New connection from 172.18.0.1:35574 on port 1883.
+1694836208: New client connected from 172.18.0.1:35574 as mqttx_3c0868f1 (p5, c1, k60, u'root').
