@@ -11,3 +11,7 @@
 1694835629: Saving in-memory database to /mosquitto/data//mosquitto.db.
 1694835630: mosquitto version 2.0.11 starting
 
+1694837688: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1694838207: New connection from 192.168.0.4:48320 on port 1883.
+1694838207: New client connected from 192.168.0.4:48320 as mymqtt-873474431343554 (p5, c0, k60, u'root').
+1694838263: Client mymqtt-873474431343554 disconnected.
