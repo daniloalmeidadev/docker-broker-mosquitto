@@ -1,0 +1,19 @@
+version: '2'
+
+services:
+  mqtt:
+    container_name: docker-broker-mosquitto
+    image: eclipse-mosquitto:2.0.11
+    ports:
+      - "1883:1883"
+      - "9001:9001"
+    volumes:
+      - ./config:/docker-broker-mosquitto/config
+      - ./data:/docker-broker-mosquitto/data
+      - ./log:/docker-broker-mosquitto/log
+
+volumes:
+  config:
+  data:
+  log:
+
