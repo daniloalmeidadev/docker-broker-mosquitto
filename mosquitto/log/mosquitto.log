@@ -1,0 +1,17 @@
+1694834961: mosquitto version 2.0.11 starting
+1694834961: Config loaded from /mosquitto/config/mosquitto.conf.
+1694834961: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1694834961: Create a configuration file which defines a listener to allow remote access.
+1694834961: For more details see https://mosquitto.org/documentation/authentication-methods/
+1694834961: Opening ipv4 listen socket on port 1883.
+1694834961: Opening ipv6 listen socket on port 1883.
+1694834961: Error: Address not available
+1694834961: mosquitto version 2.0.11 running
+1694835629: mosquitto version 2.0.11 terminating
+1694835629: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1694835630: mosquitto version 2.0.11 starting
+
+1694837688: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1694838207: New connection from 192.168.0.4:48320 on port 1883.
+1694838207: New client connected from 192.168.0.4:48320 as mymqtt-873474431343554 (p5, c0, k60, u'root').
+1694838263: Client mymqtt-873474431343554 disconnected.
